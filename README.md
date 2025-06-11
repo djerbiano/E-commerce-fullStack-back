@@ -48,3 +48,4 @@ Cependant, il est encore en ligne et consultable afin de montrer mes premières 
 - 🧼 Validation serveur avec Joi
 - 🖼️ Templates côté serveur avec EJS
 - 🛒 Front stylisé avec Styled Components et React Icons
+
